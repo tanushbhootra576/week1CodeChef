@@ -1,0 +1,32 @@
+# Node
+node_modules/
+.next/
+.env
+.env.local
+.env.development
+.env.production
+
+# Go
+backend/.env
+backend/.env.example
+backend/vendor/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Build
+/dist
+/build
+
+# Misc
+*.bak
+*.tmp
